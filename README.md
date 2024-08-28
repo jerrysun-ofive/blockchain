@@ -1,4 +1,4 @@
-### Basic Blockchain Implementation In Python
+# Basic Blockchain Implementation In Python
 
 # 🕹️ Introduction
 
